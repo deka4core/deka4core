@@ -3,9 +3,9 @@
 <h3 align="center">Computer science enjoyer, Python developer from Russia 🇷🇺</h3>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+currently+working+on+TFinance.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+currently+working+on+TFinance.)](https://github.com/deka4core/TFinance)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deka4core&repo=TFinance&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deka4core&repo=TFinance&theme=nord)](https://github.com/deka4core/TFinance)
 
   
   
