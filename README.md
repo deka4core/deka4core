@@ -29,11 +29,10 @@
  
  <h3 align="center">🔥 Streak Stats:</h3>
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deka4core&theme=nord)](https://git.io/streak-stats)
- 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deka4core&theme=nord)]
  <h3 align="center">🌐 Other stats:</h3>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deka4core&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deka4core&theme=nord)]
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deka4core&theme=nord)
  
