@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on making some projects on Python.
 - 📫 How to reach me: es.kokonatpt@outlook.com 
   
-  ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+  [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.com/)
 - ⚡ Fun fact: I'm learning programming languages from the age of 12 🐤.
 - 😹 Fun joke:
 
